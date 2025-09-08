@@ -74,7 +74,7 @@ Formally as a coding task, let `i` be an integer greater than zero and output th
 * If `i` is divisible by 3 and 5, print the string `Fizz Buzz` (note the space)
 * Otherwise, print the value of `i`
 
-- [ ] Try a short game of Fizz Buzz with your team now.
+- [X] Try a short game of Fizz Buzz with your team now.
 
 ---
 
