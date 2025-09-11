@@ -5,7 +5,7 @@ public class Multiples {
 
     }
 
-    static int multiples(int n, int a, int b) {
+    public static int multiples(int n, int a, int b) {
         int count = 0;
         int i = 1;
         while (i < n){
@@ -20,7 +20,7 @@ public class Multiples {
         return count;
     }
 
-    static int multiples(){
+    public static int multiples(){
         return multiples(1000, 3, 5);
     }
 }
